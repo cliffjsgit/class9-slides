@@ -451,7 +451,7 @@ Anything that can be done with modifiers can also be done with pure functions. I
 # the day when one person is n times older than the other.
 ```
 
-+++++
+-----
 
 ##### Chapter 17: Classes and Methods
 
