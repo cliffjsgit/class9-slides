@@ -10,7 +10,7 @@ revealOptions:
 ### ITSE-1402 Intermediate Python
 <span style="font-family:Helvetica Neue; font-weight:bold; color:#e49436">Class 9: Chapter 15/16/17: Classes and Objects/Functions/Methods</span>
 <br /><br />
-##### [https://z3r0.tech/slides-9](https://z3r0.tech/slides-9)
+##### [https://coder.run/1402-class9](https://coder.run/1402-class9)
 
 -----
 
@@ -18,9 +18,9 @@ revealOptions:
 
 +++++
 
-[https://z3r0.tech/1402-chap15](https://z3r0.tech/1402-chap15)
-[https://z3r0.tech/1402-chap16](https://z3r0.tech/1402-chap16)
-[https://z3r0.tech/1402-chap17](https://z3r0.tech/1402-chap17)
+[https://coder.run/1402-chap15](https://coder.run/1402-chap15)
+[https://coder.run/1402-chap16](https://coder.run/1402-chap16)
+[https://coder.run/1402-chap17](https://coder.run/1402-chap17)
 
 +++++
 
@@ -254,7 +254,7 @@ box3 and box are completely separate objects.
 
 +++++
 
-```python
+<pre class="stretch"><code class="python" data-trim data-noescape>
 #!/usr/bin/env python3
 
 # Exercise 15.1
@@ -276,7 +276,7 @@ box3 and box are completely separate objects.
 # Rectangle and returns True if any of the corners of the Rectangle fall inside 
 # the circle. Or as a more challenging version, return True if any part of the 
 # Rectangle falls inside the circle.
-```
+</code></pre>
 
 -----
 
@@ -413,7 +413,7 @@ Anything that can be done with modifiers can also be done with pure functions. I
 
 +++++
 
-```python
+<pre class="stretch"><code class="python" data-trim data-noescape>
 #!/usr/bin/env python3
 
 # Exercise 16.1
@@ -425,31 +425,8 @@ Anything that can be done with modifiers can also be done with pure functions. I
 # Then use mul_time to write a function that takes a Time object that represents
 # the finishing time in a race, and a number that represents the distance, and 
 # returns a Time object that represents the average pace (time per mile).
-```
-
-+++++
-
-```python
-#!/usr/bin/env python3
-
-# Exercise 16.2
 #
-# 1. The datetime module provides time objects that are similar to the Time 
-# objects in this chapter, but they provide a rich set of methods and operators.
-# Read the documentation at http://docs.python.org/3/library/datetime.html.
-#
-# 2. Use the datetime module to write a program that gets the current date and 
-# prints the day of the week. Write a program that takes a birthday as input and
-# prints the user’s age and the number of days, hours, minutes and seconds until
-# their next birthday.
-#
-# 3. For two people born on different days, there is a day when one is twice as 
-# old as the other. That’s their Double Day. Write a program that takes two 
-# birthdays and computes their Double Day.
-#
-# 4. For a little more challenge, write the more general version that computes 
-# the day when one person is n times older than the other.
-```
+</code></pre>
 
 -----
 
@@ -803,10 +780,10 @@ The best kind of polymorphism is the unintentional kind, where you discover that
 
 +++++
 
-```python
+<pre class="stretch"><code class="python" data-trim data-noescape>
 #!/usr/bin/env python3
 
-# Exercise 16.1
+# Exercise 17.1
 #
 # 1. Download the code from this chapter from :
 #    http://thinkpython2.com/code/Time2.py. 
@@ -814,7 +791,9 @@ The best kind of polymorphism is the unintentional kind, where you discover that
 # since midnight. Then modify the methods (and the function int_to_time) to work
 # with the new implementation. You should not have to modify the test code in 
 # main. When you are done, the output should be the same as before.
-```
+#
+
+</code></pre>
 
 +++++
 
@@ -822,5 +801,5 @@ https://youtu.be/o9pEzgHorH0
 
 +++++
 
-Homework is 16.2/17.2 and extra credit is to do a CodeFights Challenge.
+Homework is 16.2/17.2
 
