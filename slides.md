@@ -10,7 +10,7 @@ revealOptions:
 ### ITSE-1402 Intermediate Python
 <span style="font-family:Helvetica Neue; font-weight:bold; color:#e49436">Class 9: Chapter 15/16/17: Classes and Objects/Functions/Methods</span>
 <br /><br />
-##### [https://coder.run/1402-class9](https://coder.run/1402-class9)
+##### [https://bit.ly/1402-class9](https://bit.ly/1402-class9)
 
 -----
 
@@ -18,9 +18,9 @@ revealOptions:
 
 +++++
 
-[https://coder.run/1402-chap15](https://coder.run/1402-chap15)
-[https://coder.run/1402-chap16](https://coder.run/1402-chap16)
-[https://coder.run/1402-chap17](https://coder.run/1402-chap17)
+[https://bit.ly/1402-chap15](https://bit.ly/1402-chap15)
+[https://bit.ly/1402-chap16](https://bit.ly/1402-chap16)
+[https://bit.ly/1402-chap17](https://bit.ly/1402-chap17)
 
 +++++
 
