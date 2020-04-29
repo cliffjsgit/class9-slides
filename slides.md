@@ -7,20 +7,13 @@ revealOptions:
     transition: 'fade'
 ---
 
-### ITSE-1402 Intermediate Python
+### ITSE-1042 Intermediate Python
 <span style="font-family:Helvetica Neue; font-weight:bold; color:#e49436">Class 9: Chapter 15/16/17: Classes and Objects/Functions/Methods</span>
 <br /><br />
-##### [https://bit.ly/1402-class9](https://bit.ly/1402-class9)
 
 -----
 
 ##### Chapter 15: Classes and Objects
-
-+++++
-
-[https://bit.ly/1402-chap15](https://bit.ly/1402-chap15)
-[https://bit.ly/1402-chap16](https://bit.ly/1402-chap16)
-[https://bit.ly/1402-chap17](https://bit.ly/1402-chap17)
 
 +++++
 
@@ -797,7 +790,16 @@ The best kind of polymorphism is the unintentional kind, where you discover that
 
 +++++
 
+##### PyCon 2012 - Stop Writing Classes - Jack Diederich
+
+Classes are great but they are also overused.  This talk will describe examples of class 
+overuse taken from real world code and refactor the unnecessary classes, exceptions, and 
+modules out of them.
+Category - Education
+
 https://youtu.be/o9pEzgHorH0
+https://www.youtube.com/watch?v=o9pEzgHorH0&feature=youtu.be
+
 
 +++++
 
