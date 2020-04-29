@@ -792,15 +792,15 @@ The best kind of polymorphism is the unintentional kind, where you discover that
 
 ##### PyCon 2012 - Stop Writing Classes by Jack Diederich 
 
-Classes are great but they are also overused. This talk describes examples of class overuse 
-taken from real world code and refactor the unnecessary classes, exceptions, and modules out of them.  
+Classes are great but they are also overused. This talk describes examples of class overuse taken 
+from real world code and refactor the unnecessary classes, exceptions, and modules out of them.     
 ...
 
-https://youtu.be/o9pEzgHorH0   
-or
-https://www.youtube.com/watch?v=o9pEzgHorH0&feature=youtu.be   
-
-
+https://youtu.be/o9pEzgHorH0         
+or    
+https://www.youtube.com/watch?v=o9pEzgHorH0&feature=youtu.be      
+     
+    
 +++++
 
 Homework is 16.2/17.2
